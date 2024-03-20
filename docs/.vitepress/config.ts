@@ -2,8 +2,9 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.vuejs.org/config/introduction for details
 export default defineConfig({
   lang: 'zh-cn',
-  title: '寒假师资培训',
-  description: 'Vite & Vue powered static site generator.',
+  title: '第十五届蓝桥杯省赛 Web 师资培训',
+  description: '蓝桥杯',
+  lastUpdated: true,
   markdown: {
     lineNumbers: true //开始 mark 代码行号显示
   },
@@ -23,9 +24,9 @@ export default defineConfig({
         ],
       },
       {
-        text: '课程、项目技术讲解',
+        text: '师资培训课件',
         items: [
-          { text: '课程项目技术讲解', link: '/03' },
+          { text: '师资培训课件 （1）', link: '/03' },
           { text: 'TS 快速入门', link: '/ts' },
         ]
       },
