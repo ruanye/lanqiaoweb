@@ -4,10 +4,10 @@
 branch=$(git symbolic-ref --short HEAD)
 
 # 获取最新的 commit message
-last_commit_msg=$(git log -1 --pretty=%B)
+last_commit_msg=${1:-"课件提交"}
 
 # 提交信息
-commit_msg="Auto commit on branch $branch: $last_commit_msg"
+commit_msg="$last_commit_msg"
 
 # 添加所有修改
 git add .
