@@ -23,7 +23,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '第十五届蓝桥杯省赛 Web 师资培训', link: '/01' },
-          { text: '历届题目', link: '/02' },
+          { text: '蓝桥杯 web 历届省赛国赛题目', link: '/02' },
         ],
       },
       {
