@@ -33,21 +33,7 @@ export default defineConfig({
           { text: '师资培训课件 （1）', link: '/03' },
           { text: '备赛专项练习题', link: '/04' },
         ]
-      },
-      {
-        text: '赛前专项练习题',
-        items: [
-          { text: '蓝桥杯 WEB 赛项', link: '/02' },
-          { text: '蓝桥杯 WEB 赛项真题解析', link: '/06' },
-        ]
-      },
-      {
-        text: '',
-        items: [
-          { text: '鸿蒙开发介绍', link: '/05' }
-        ]
-      },
-      
+      }
     ],
     footer: {
       message: '蓝桥云课',
