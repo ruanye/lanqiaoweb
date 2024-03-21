@@ -20,7 +20,7 @@ export default defineConfig({
     sidebar: [
       {
         text: '第十五届蓝桥杯省赛 Web 师资培训',
-        collapsed: true,
+       
         items: [
           { text: '第十五届蓝桥杯省赛 Web 师资培训', link: '/01' },
           { text: '蓝桥杯 web 历届省赛国赛题目', link: '/02' },
@@ -28,7 +28,7 @@ export default defineConfig({
       },
       {
         text: '师资培训课件',
-        collapsed: true,
+        
         items: [
           { text: '师资培训课件 （1）', link: '/03' },
           { text: '备赛专项练习题', link: '/04' },
