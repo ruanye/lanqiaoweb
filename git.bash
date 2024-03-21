@@ -8,6 +8,7 @@ last_commit_msg=${1:-"课件提交"}
 
 # 提交信息
 commit_msg="$last_commit_msg"
+echo "提交信息：$commit_msg"
 
 # 添加所有修改
 git add .
