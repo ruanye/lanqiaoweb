@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: 寒假师资培训
-  text: 欢迎各位老师参加前端方向的培训
+  name: 第十五届蓝桥杯省赛 Web 师资培训
+  text: 欢迎各位老师
   tagline:  
 
   actions:
