@@ -16,4 +16,4 @@ git add .
 git commit -m "$commit_msg"
 
 # 推送修改
-git push
+git push origin main
