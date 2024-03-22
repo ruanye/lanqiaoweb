@@ -22,3 +22,4 @@ console.log(str.includes('1'))
   
 // Math.floor(Math.random() * (m - n + 1)) + n;
 // Math.floor(Math.random() * 10) + 1; // 生成 1 到 10 之间的随机整数
+
