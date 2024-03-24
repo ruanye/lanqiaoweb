@@ -28,7 +28,6 @@ export default defineConfig({
       },
       {
         text: '师资培训课件',
-        
         items: [
           { text: '师资培训课件（HTML+CSS）', link: '/03' },
           { text: '师资培训课件（函数封装）', link: '/04' },
@@ -36,7 +35,7 @@ export default defineConfig({
           { text: '师资培训课件 （ES6 题目）', link: '/06' },
           { text: '师资培训课件 （Element Plus 题目）', link: '/07' },
           { text: '师资培训课件 （Echarts 题目）', link: '/08' },
-          { text: '师资培训课件 （Vue3 题目）', link: '/19' },
+          { text: '师资培训课件 （Vue3 题目）', link: '/09' },
           { text: '师资培训课件 （node 题目）', link: '/10' },
           { text: '备赛专项练习题', link: '/11' },
           { text: '十五届模拟一', link: '/12' },
