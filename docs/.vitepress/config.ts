@@ -39,6 +39,9 @@ export default defineConfig({
           { text: '师资培训课件 （Vue3 题目）', link: '/09' },
           { text: '师资培训课件 （node 题目）', link: '/10' },
           { text: '备赛专项练习题', link: '/11' },
+          { text: '十五届模拟一', link: '/12' },
+          { text: '十五届模拟二', link: '/13' },
+          { text: '十五届模拟三', link: '/14' },
         ]
       }
     ],
