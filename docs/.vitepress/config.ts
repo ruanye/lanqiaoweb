@@ -41,6 +41,7 @@ export default defineConfig({
           { text: '十五届模拟一', link: '/12' },
           { text: '十五届模拟二', link: '/13' },
           { text: '十五届模拟三', link: '/14' },
+          { text: '总结', link: '/14' },
         ]
       }
     ],
