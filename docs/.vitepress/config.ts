@@ -5,6 +5,7 @@ export default defineConfig({
   title: '第十五届蓝桥杯省赛 Web 师资培训',
   description: '蓝桥杯',
   lastUpdated: true,
+  ignoreDeadLinks: true,
   markdown: {
     lineNumbers: true //开始 mark 代码行号显示
   },
