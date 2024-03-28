@@ -6,7 +6,7 @@
     "build": "vitepress build docs",
     "serve": "vitepress serve docs"
   },
-  "devDependencies": {
-    
+  "dependencies": {
+    "vitepress": "^1.0.1"
   }
 }
