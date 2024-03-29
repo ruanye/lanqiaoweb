@@ -10,16 +10,16 @@ hero:
   tagline: 蓝桥杯备赛
   actions:
     - theme: brand
-      text: 如何高效备考?
-      link: /01
+      text: 开始
+      link: /base/01
     - theme: alt
       text: 核心考点
-      link: /03
+      link: /profile/03
     - theme: alt
       text: 备赛专区
       link: https://www.lanqiao.cn/cup/
   image:
-    src: /images/a.png
+    src: /images/cup.png
     alt: 蓝桥杯
 
 features:
@@ -55,5 +55,13 @@ features:
   :root {
     --vp-home-hero-image-filter: blur(68px);
   }
+}
+.VPImage.image-src{
+  max-width: 256px;
+  max-height: 256px;
+ border-radius: 20%;
+  transform:translate(-50%,-50%) skew(8deg);
+  border: 10px solid #ca88f1;
+  box-shadow:-12px 14px 5px  rgba(0, 0, 0, 0.5);
 }
 </style>
