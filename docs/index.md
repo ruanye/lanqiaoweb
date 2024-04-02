@@ -1,8 +1,8 @@
 ---
 layout: home
 
-title: VitePress
-titleTemplate: Vite & Vue Powered Static Site Generator
+title: 蓝桥杯
+titleTemplate: 连接未来
 
 hero:
   name: 蓝桥杯
