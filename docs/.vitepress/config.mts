@@ -13,9 +13,9 @@ export default defineConfig({
     search: {
       provider: "algolia",
       options: {
-        appId: "...",
-        apiKey: "...",
-        indexName: "...",
+        appId: "80KNYBZ3Q2",
+        apiKey: "78a894d2e9939477194040467425bf45",
+        indexName: "lanqiaoweb",
         locales: {
           zh: {
             placeholder: "搜索文档",
@@ -97,27 +97,6 @@ export default defineConfig({
         },
       ],
     },
-    // sidebar: [
-    //   {
-
-    //     text: '师资培训课件',
-    //     items: [
-    //       { text: '师资培训课件（HTML+CSS）', link: '/profile/03' },
-    //       { text: '师资培训课件（函数封装）', link: '/profile/04' },
-    //       { text: '师资培训课件 （DOM 操作）', link: '/profile/05' },
-    //       { text: '师资培训课件 （ES6 题目）', link: '/profile/06' },
-    //       { text: '师资培训课件 （Element Plus 题目）', link: '/profile/07' },
-    //       { text: '师资培训课件 （Echarts 题目）', link: '/profile/08' },
-    //       { text: '师资培训课件 （Vue3 题目）', link: '/profile/09' },
-    //       { text: '师资培训课件 （node 题目）', link: '/profile/10' },
-    //       { text: '备赛专项练习题', link: '/profile/11' },
-    //       { text: '十五届模拟一', link: '/profile/12' },
-    //       { text: '十五届模拟二', link: '/profile/13' },
-    //       { text: '十五届模拟三', link: '/profile/14' },
-    //       { text: '总结', link: '/profile/15' },
-    //     ]
-    //   }
-    // ],
     footer: {
       message: "蓝桥云课",
       copyright: "Copyright © 2024-国信蓝桥",
