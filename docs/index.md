@@ -19,7 +19,7 @@ hero:
       text: 备赛专区
       link: https://www.lanqiao.cn/cup/
   image:
-    src: /images/cup.png
+    src: /cup.png
     alt: 蓝桥杯
 
 features:

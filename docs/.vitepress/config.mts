@@ -61,7 +61,7 @@ export default defineConfig({
         },
       },
     },
-    logo: "/images/logo.svg",
+    logo: "/logo.svg",
     siteTitle: false,
     socialLinks: [{ icon: "github", link: "https://github.com/ruanye" }],
     lastUpdatedText: "最后更新时间",
