@@ -1,1 +1,0 @@
-import{_ as t,o as d,c as r,O as e}from"./chunks/framework.4afe7240.js";const _=JSON.parse('{"title":"蓝桥杯历届比赛题目","description":"","frontmatter":{},"headers":[],"relativePath":"02.md","filePath":"02.md","lastUpdated":1710928455000}'),a={name:"02.md"},h=e("",9),o=[h];function l(n,i,s,c,u,b){return d(),r("div",null,o)}const M=t(a,[["render",l]]);export{_ as __pageData,M as default};

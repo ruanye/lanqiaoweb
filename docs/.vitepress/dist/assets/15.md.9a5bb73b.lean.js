@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as i,O as t}from"./chunks/framework.4afe7240.js";const m=JSON.parse('{"title":"省赛高分总结","description":"","frontmatter":{},"headers":[],"relativePath":"15.md","filePath":"15.md","lastUpdated":1711525548000}'),l={name:"15.md"},r=t("",9),o=[r];function n(s,h,d,c,_,u){return e(),i("div",null,o)}const f=a(l,[["render",n]]);export{m as __pageData,f as default};

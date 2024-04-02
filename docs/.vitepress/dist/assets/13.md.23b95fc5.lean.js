@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,O as l}from"./chunks/framework.4afe7240.js";const A=JSON.parse('{"title":"十五届模拟二","description":"","frontmatter":{},"headers":[],"relativePath":"13.md","filePath":"13.md","lastUpdated":1711260225000}'),p={name:"13.md"},o=l("",103),e=[o];function c(r,t,F,y,D,i){return n(),a("div",null,e)}const b=s(p,[["render",c]]);export{A as __pageData,b as default};
